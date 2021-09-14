@@ -1,0 +1,6 @@
+Evaluación      |Porcentaje     |Semana
+Quiz I          |5%             |5
+Quiz II         |5%             |9
+Examen I        |30%            |6
+Examen II       |30%            |11
+Proyecto        |30%            |11
