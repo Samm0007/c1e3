@@ -1,0 +1,9 @@
+Evaluación          |Porcentaje     |Semana
+Quiz I              |5%             |3
+Quiz II             |5%             |6
+Presentations (Oral)|20%            |5-9
+Summaries           |10%            |5-9
+Roundtable          |15%            |7
+Portafolio          |10%            |
+Final Project       |30%            |10
+Class participation |5%             |11
