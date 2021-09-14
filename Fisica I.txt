@@ -1,0 +1,6 @@
+Evaluación      |Porcentaje     |Semana
+8 Diagnosticos  |6%             |--
+3 Tareas        |9%             |--
+Prueba I        |25%            |4
+Prueba II       |28%            |7
+Prueba III      |32%            |11
